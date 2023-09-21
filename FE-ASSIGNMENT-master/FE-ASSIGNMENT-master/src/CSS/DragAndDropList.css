@@ -1,0 +1,16 @@
+.drag-and-drop-list {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  .draggable-item {
+    /* background-color: #f0f0f0; */
+    background-color: lightgreen;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+  }

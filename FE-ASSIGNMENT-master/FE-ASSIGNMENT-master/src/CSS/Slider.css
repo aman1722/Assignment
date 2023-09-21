@@ -1,0 +1,17 @@
+.carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-left: 15%;
+}
+
+.carousel {
+  max-width: 80%;
+  align-items: center;
+  justify-content: center;
+}
+
+/* img {
+  max-height: 300px;
+} */
