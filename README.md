@@ -64,4 +64,4 @@ Welcome to the React JS Developer Fresher project! This repository contains a co
 
 - Build a carousel slider component that automatically scrolls through a list of items.
 
-Feel free to explore and complete these projects and exercises to enhance your React skills. Happy coding!
+
